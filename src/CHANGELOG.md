@@ -1,5 +1,11 @@
 # viem
 
+## 2.9.3
+
+### Patch Changes
+
+- [#2015](https://github.com/wevm/viem/pull/2015) [`b3b989fac1c42a9e1fa870610010150b94297d1f`](https://github.com/wevm/viem/commit/b3b989fac1c42a9e1fa870610010150b94297d1f) Thanks [@emrahsky](https://github.com/emrahsky)! - Added Areon chain.
+
 ## 2.9.2
 
 ### Patch Changes
